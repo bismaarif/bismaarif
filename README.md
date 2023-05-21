@@ -1,4 +1,4 @@
-![logo](https://github.com/bismaarif/bismaarif/blob/main/github-header-image%20(4).png)
+![logo](https://github.com/bismaarif/bismaarif/blob/main/photo-1542831371-29b0f74f9713.jpeg)
 
 <h1 align="center">Hi 👋, I'm Bisma Arif</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
